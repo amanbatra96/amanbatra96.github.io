@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Scholar, IITB
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently I am pursuing a PhD at the Systems and Control Engineering Department of IIT Bombay. I am fascinated by the tools in applied mathematics and am striving to learn these well in hope to apply them to diverse applications. I will be using this website for both - updating my professional experience and sharing my personal thoughts.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+You can find my CV [here](/cv) . I don't have any publications yet, but they will appear [here](/publications/) in future.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+On the extracurricular front, I build small DIY projects for fun, I will try to update my learnings from those [here](/projects/). I am interested in doing science related visualisations and illustrations similar to [3b1b](https://www.youtube.com/c/3blue1brown) and [Kuzgesagt](https://www.youtube.com/c/inanutshell). I am also interested in learning music theory and the keyboard.
