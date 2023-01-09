@@ -34,9 +34,9 @@
     - title: Engineer 'SC'
       institution: Vikram Sarabhai Space Center, ISRO
       year: 2019 - 2021
-      description:
-        - Description 1.
-        - Description 2.
+      #description:
+        #- Description 1.
+        #- Description 2.
           #- title: Description 3.
           #contents:
             #- Sub-description 1.
