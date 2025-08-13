@@ -1,200 +1,154 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aman Batra",
+    "label": "Research Scholar",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://amanbatra96.github.io/",
+    "summary": "Pursuing PhD under the guidance of Prof Vivek Natarajan at Centre for systems and conrol, IIT Bombay",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "Center for systems and control, IIT Bombay",
+      "postalCode": "400076",
+      "city": "Mumbai",
+      "countryCode": "IN",
+      "region": "Maharashtra"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Vikram Sarabhai Space Center, ISRO",
+      "position": "Scientist/Engineer 'SC'",
+      "url": "https://www.vssc.gov.in/",
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": "Engineer with the Control Actuation Systems group at the Quality Division for Mechanical Systems in the Systems Reliablity entity at VSSC.",
+      "highlights": ["Automated data analysis for electrohydraulic and electromechanical actuation systems used in operational and developmental launch vehicles","Worked on technology development project, modeled nonlinear elements in electromechanical actuators","Studied feasibility of throttlability in generic earth storable liquid rocket engines during induction project"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Bosch Limited",
+      "position": "Intern",
+      "url": "https://www.bosch.in/",
+      "startDate": "May 2018",
+      "endDate": "July 2018",
+      "summary": "Worked on Part Allocation Optimization using Genetic Algorithm. Specifically, I devised an algorithm to decide the sequence for manufacturing the plunger of a series of fuel injection pumps.",
+      "highlights": ["Designed a Genetic Algorithm (GA) to automate part allocation for bottleneck processes in elements","Identified a potential 1% increase in production by sequencing parts to reduce changeover time using GA"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "IIT Bombay, Mumbai, India",
+      "location": "Mumbai, India",
+      "url": "https://www.sc.iitb.ac.in/",
+      "area": "Center for systems and control",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "December 2021",
+      "endDate": "Ongoing",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Prime Minister's Research Fellowship",
+      "date": "2022",
+      "awarder": "Ministry of Education, Government of India",
+      "url": "https://www.pmrf.in/",
+      "summary": "PMRF offers attractive fellowships as well as research grants to PhD scholars in India in the area of Science and Engineering."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Semi-Discretization of a Euler-Bernoulli Beam and Its Application to Motion Planning",
+      "publisher": "IEEE Access",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1109/ACCESS.2025.3537830",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Output consensus in a heterogeneous leader-follower multi-agent system with input and communication delays",
+      "publisher": "Indian Control Conference",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1109/ICC56513.2022.10093302",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "MATLAB",
+        "Python"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "AC Servo Drives",
+        "Microprocessors/microcontrollers",
+        "LATEX"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Control theory",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Partial differential equations",
+        "Felxible structures",
+        "Nonlinar control"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Motion planning for flexible structures",
+      "summary": "PhD Thesis - Involves solving motion and path planning problems for PDes like the heat and the beam equations",
+      "highlights": ["Worked on the theoretical aspects of a semi-discetization and flatness based motion planning algorithm for beam equation", "Designed and conceived an experiment to validate a recently developed inhouse motion planning algorithm for Euler-Bernoulli beam"],
+      "startDate": "December 2021",
+      "endDate": "Ongoing",
+      "url": ""
+    },
+    {
+      "name": "Load Transfer in Lumbar Functional Unit during Physiological Motion",
+      "summary": "M.Tech. Thesis - Studied the mechanical effects of introduction of porous caged implants on replacing the degenerated inter-vertebral disc during Posterior Lumbar Interbody Fusion (PLIF) surgery.",
+      "highlights": ["Modeled lumbar spine by stacking CT scan images and processing the stack images to create a 3D Geometry", "Designed Pedicle Screws, Porous Titanium cages using CAD and assembled them to the lumbar unit model","Carried out system level meshing for FEA and analyzed stress under nominally induced biomechanical loads"," Analyzed range of motion to predict the dynamics post LIF considering the loss in motion and increased stiffness"],
+      "startDate": "July 2018",
+      "endDate": "July 2019",
+      "url": ""
+    },
+    {
+      "name": "Visualization Tool for Path Planning Algorithms",
+      "summary": "B.Tech. Thesis - Designed a software tool to animate path planning algorithms in 2D space.",
+      "highlights": [" Implemented Random Exploring Trees, Probabilistic Road-maps based planning algorithms", "Added function for drafting obstacles and modified the algorithm to avoid obstacles and return a smooth trajectory","Used a cascaded algorithm to search the complete space and then find the shortest path between start and end points"],
+      "startDate": "July 2017",
+      "endDate": "July 2018",
+      "url": ""
+    },
+    {
+      "name": "Design of Suspension and Brake Systems for an FSAE car at Team KART",
+      "summary": "TeamKART is an IIT Kharagpur student research group which designs, fabricates and tests formula style race cars.",
+      "highlights": ["Optimized wheel hub design using FEA considering fatigue loads to reduce weight by 10% for same Factor of Safety", "Processed experimental 53000 point tire data to validate it with Pacejka model and calculate true coefficients","Created custom calculators to find the loads on suspension control arms; braking force and pedal ratio"],
+      "startDate": "July 2014",
+      "endDate": "July 2019",
+      "url": ""
     }
   ]
 }
