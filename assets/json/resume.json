@@ -30,22 +30,32 @@
       "position": "Intern",
       "url": "https://www.bosch.in/",
       "startDate": "May 2018",
-      "endDate": "July 2018",
+      "endDate": "Jul 2018",
       "summary": "Worked on Part Allocation Optimization using Genetic Algorithm. Specifically, I devised an algorithm to decide the sequence for manufacturing the plunger of a series of fuel injection pumps.",
       "highlights": ["Designed a Genetic Algorithm (GA) to automate part allocation for bottleneck processes in elements","Identified a potential 1% increase in production by sequencing parts to reduce changeover time using GA"]
     }
   ],
   "education": [
     {
-      "institution": "IIT Bombay, Mumbai, India",
+      "institution": "IIT Bombay",
       "location": "Mumbai, India",
       "url": "https://www.sc.iitb.ac.in/",
       "area": "Center for systems and control",
       "studyType": "PhD",
-      "startDate": "December 2021",
+      "startDate": "Dec 2021",
       "endDate": "Ongoing",
       "score": "10",
-      "courses": [""]
+      "courses": ["Systems theory","Partial differential equations 1 and 2","Control of nonlinear dynamical systems"]
+    },
+    {
+      "institution": "IIT Kharagpur",
+      "location": "Kharagpur, India",
+      "url": "https://www.iitkgp.ac.in/",
+      "area": "Center for systems and control",
+      "studyType": "B Tech + M Tech (Dual Degree)",
+      "startDate": "Jul 2014",
+      "endDate": "Jul 2019",
+      "score": "10"
     }
   ],
   "awards": [
@@ -113,41 +123,41 @@
       "keywords": [
         "Partial differential equations",
         "Felxible structures",
-        "Nonlinar control"
+        "Nonlinear control"
       ]
     }
   ],
   "projects": [
     {
       "name": "Motion planning for flexible structures",
-      "summary": "PhD Thesis - Involves solving motion and path planning problems for PDes like the heat and the beam equations",
+      "summary": "PhD Thesis - Involves solving motion and path planning problems for PDEs like the heat and the beam equations",
       "highlights": ["Worked on the theoretical aspects of a semi-discetization and flatness based motion planning algorithm for beam equation", "Designed and conceived an experiment to validate a recently developed inhouse motion planning algorithm for Euler-Bernoulli beam"],
-      "startDate": "December 2021",
+      "startDate": "Dec 2021",
       "endDate": "Ongoing",
       "url": ""
     },
     {
       "name": "Load Transfer in Lumbar Functional Unit during Physiological Motion",
-      "summary": "M.Tech. Thesis - Studied the mechanical effects of introduction of porous caged implants on replacing the degenerated inter-vertebral disc during Posterior Lumbar Interbody Fusion (PLIF) surgery.",
+      "summary": "Masters Thesis - Studied the mechanical effects of introduction of porous caged implants on replacing the degenerated inter-vertebral disc during Posterior Lumbar Interbody Fusion (PLIF) surgery.",
       "highlights": ["Modeled lumbar spine by stacking CT scan images and processing the stack images to create a 3D Geometry", "Designed Pedicle Screws, Porous Titanium cages using CAD and assembled them to the lumbar unit model","Carried out system level meshing for FEA and analyzed stress under nominally induced biomechanical loads"," Analyzed range of motion to predict the dynamics post LIF considering the loss in motion and increased stiffness"],
-      "startDate": "July 2018",
-      "endDate": "July 2019",
+      "startDate": "Jul 2018",
+      "endDate": "Jul 2019",
       "url": ""
     },
     {
       "name": "Visualization Tool for Path Planning Algorithms",
-      "summary": "B.Tech. Thesis - Designed a software tool to animate path planning algorithms in 2D space.",
+      "summary": "Bachelors Thesis - Designed a software tool to animate path planning algorithms in 2D space.",
       "highlights": [" Implemented Random Exploring Trees, Probabilistic Road-maps based planning algorithms", "Added function for drafting obstacles and modified the algorithm to avoid obstacles and return a smooth trajectory","Used a cascaded algorithm to search the complete space and then find the shortest path between start and end points"],
-      "startDate": "July 2017",
-      "endDate": "July 2018",
+      "startDate": "Jul 2017",
+      "endDate": "Jul 2018",
       "url": ""
     },
     {
       "name": "Design of Suspension and Brake Systems for an FSAE car at Team KART",
       "summary": "TeamKART is an IIT Kharagpur student research group which designs, fabricates and tests formula style race cars.",
       "highlights": ["Optimized wheel hub design using FEA considering fatigue loads to reduce weight by 10% for same Factor of Safety", "Processed experimental 53000 point tire data to validate it with Pacejka model and calculate true coefficients","Created custom calculators to find the loads on suspension control arms; braking force and pedal ratio"],
-      "startDate": "July 2014",
-      "endDate": "July 2019",
+      "startDate": "Jul 2014",
+      "endDate": "Jul 2019",
       "url": ""
     }
   ]
