@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have been an Institute TA for the following courses:
+* Signals and systems, Spring 2023
+* Optimization, Spring 2024
+* Systems theory, Autumn 2024
+* Signals and systems, Spring 2025
+* Active vibration control, Autumn 2025 (Ongoing)
 
-Organize your courses by years, topics, or universities, however you like!
+I have also coduncted workshops as a part of my PMRF TA:
+* Python for engineers
+    * Mechanical engineering, RCOEM, 2023
+    * Electrical engineering, RCOEM, 2024
+    * Mechanical engineering, RCOEM, 2025
+
