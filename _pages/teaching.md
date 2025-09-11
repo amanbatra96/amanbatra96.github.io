@@ -14,7 +14,7 @@ I have been an Institute TA for the following courses:
 * Signals and systems, Spring 2025
 * Active vibration control, Autumn 2025 (Ongoing)
 
-I have also coduncted workshops as a part of my PMRF TA:
+I have also conducted workshops as a part of my PMRF TA duties:
 * Python for engineers
     * Mechanical engineering, RCOEM, 2023
     * Electrical engineering, RCOEM, 2024
