@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Currently I am pursuing a PhD at the Systems and Control Engineering Department of IIT Bombay. I am fascinated by the tools in applied mathematics and am striving to learn these well in hope to apply them to diverse applications. I will be using this website for both - updating my professional experience and sharing my personal thoughts.
+Currently I am pursuing a PhD at the Centre for Systems and Control of IIT Bombay. I am fascinated by the tools in applied mathematics and am striving to learn these well in hope to apply them to diverse applications. I will be using this website for both - updating my professional experience and sharing my personal thoughts.
 
 You can find my CV [here](/cv) . To view my publications please click [here](/publications/).
 
